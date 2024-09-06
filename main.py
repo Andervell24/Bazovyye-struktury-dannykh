@@ -5,7 +5,7 @@ print (9.99 > 9.98 and 1000 != 1000.1)
 print("3rd program")
 print (2 * 2 + 2)
 print (2 * (2 + 2))
-print (6 == 8)
+print ((2 * 2 + 2) == (2 * (2 + 2)))
 print("4rd program")
 print(int((float('123.456')-int(float('123.456')))*10))
 
